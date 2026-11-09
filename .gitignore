@@ -1,0 +1,28 @@
+
+# Logs
+Utils/Data/
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Pytest
+.pytest_cache/
+
+# Allure reports
+allure-results/
+allure-report/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
