@@ -19,5 +19,5 @@ class TestPrueba(BaseClass):
           log.debug("Es otro mensaje de debug")
           log.error("ES otro mensaje de Error")
           driver = self.driver
-
+          
           time.sleep(4)
